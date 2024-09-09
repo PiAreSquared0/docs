@@ -37,6 +37,6 @@ There are no additional parameters or arguments required.
 
 **Output:**
 ```
-streamelements timed out darkoe for 1s: "darkoe vanishes in a puff of smoke."
+streamelements timed out darkoe for 1s: "ariel pp poof."
 ```
 
